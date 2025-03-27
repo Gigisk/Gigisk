@@ -52,6 +52,8 @@
 ### 💻 Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,swift)](https://skillicons.dev)  
 
+
+
 ### ⚙️ Tools & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,idea,vscode,kali,github,git)](https://skillicons.dev)  
 
@@ -59,3 +61,7 @@
 
 ## 📚 **Currently Learning**  
 [![Learning](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=800080&fontColor=ffffff&height=100"/>
+</p>
