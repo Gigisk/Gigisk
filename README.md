@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=800080&fontColor=ffffff&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=800080&fontColor=ffffff&height=120"/>
 </p>
 
 <div id="header" align="center">
@@ -63,5 +63,5 @@
 [![Learning](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=800080&fontColor=ffffff&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=800080&fontColor=ffffff&height=120"/>
 </p>
