@@ -6,7 +6,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1pYTFzMHh4eXFybWFsZDVkaWo2MXBqc2tseWExdXJzazU1emw5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150"/>
 </div>
 
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/giorgi-tchintcharauli-0933b2299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,22 +21,35 @@
   </a>
 </div>
 
+---
+
 ## 👋 About Me  
-- 🎓 **CS Major** | Passionate about **software development & software engineering**  
-- 💻 Love working with **C++, Jave, Swift, and game development**  
-- 🎮 Created few projects like **Dodge Snowball** and **Hotel Management** and still working on other projects!
-- 🚀 Currently exploring **Swift for mobile app Development**  
+- 🎓 **Computer Science Major** | Passionate about **software development & engineering**  
+- 💻 Love working with **C++, Java, Swift, and game development**  
+- 🎮 Created projects like:  
+  - **[Dodge Snowball](https://github.com/Gigisk/Dodge-Snowball)** – A **2D game** made with SFML  
+  - **[Hotel Management](https://github.com/Gigisk/Hotel-Management)** – A **C++ terminal-based hotel management system**  
+- 🚀 Currently learning **Swift for iOS Development**  
 
+---
 
-### 🎯 Hobbies & Interests  
+## 🎯 Hobbies & Interests  
 - 🏎️ **Cars** – Dreaming of owning an **M5 F90** someday  
 - 🥋 **Martial Arts** – Love training and improving my skills  
 - 🏋️ **Working Out** – Hitting the gym & staying fit  
-- 🎮 **Gaming** – Enjoy fast-paced action & strategy games  
+- 🎮 **Gaming** – Enjoy playing games with friends
 - 💻 **Coding & Projects** – Always building something cool  
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,react,spring,mysql,idea,vscode,kali,github,git,)](https://skillicons.dev)
+---
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+## 🚀 **Main Skills**  
+### 💻 Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,swift)](https://skillicons.dev)  
+
+### ⚙️ Tools & Frameworks  
+[![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,idea,vscode,kali,github,git)](https://skillicons.dev)  
+
+---
+
+## 📚 **Currently Learning**  
+[![Learning](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)  
