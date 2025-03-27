@@ -10,16 +10,19 @@
   <a href="https://www.linkedin.com/in/giorgi-tchintcharauli-0933b2299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:gigitchintcharauli15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://discord.com/users/794364129149583370">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
   <a href="https://www.instagram.com/gigi_tch/?igsh=MW94Njh2d3VscjZzag%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.facebook.com/https://www.facebook.com/gigichincharauli15?mibextid=wwXIfr&rdid=pBOfdz3ePxz4POYe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15uQUdfUHc%2F%3Fmibextid%3DwwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
+
+---
+
+## 📬 Contact Me  
+- 📧 **Email**: [gigitchintcharauli15@gmail.com](mailto:gigitchintcharauli15@gmail.com)  
+- 🎮 **Discord**: [gigi17](https://discord.com/users/794364129149583370)  
 
 ---
 
@@ -37,7 +40,7 @@
 - 🏎️ **Cars** – Dreaming of owning an **M5 F90** someday  
 - 🥋 **Martial Arts** – Love training and improving my skills  
 - 🏋️ **Working Out** – Hitting the gym & staying fit  
-- 🎮 **Gaming** – Enjoy playing games with friends
+- 🎮 **Gaming** – Enjoy playing games with friends  
 - 💻 **Coding & Projects** – Always building something cool  
 
 ---
@@ -47,12 +50,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gigisk&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+---
 
 ## 🚀 **Main Skills**  
 ### 💻 Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,swift)](https://skillicons.dev)  
-
-
 
 ### ⚙️ Tools & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,idea,vscode,kali,github,git)](https://skillicons.dev)  
