@@ -26,7 +26,7 @@
 
 ## 🚀 **Main Skills**  
 ### 💻 Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js)](https://skillicons.dev)  
 
 ### ⚙️ Tools & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql,idea,vscode,kali,github,git,npm)](https://skillicons.dev)  
