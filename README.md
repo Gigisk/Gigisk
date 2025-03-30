@@ -29,12 +29,12 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js)](https://skillicons.dev)  
 
 ### ⚙️ Tools & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,idea,vscode,kali,github,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,idea,vscode,kali,github,git,npm)](https://skillicons.dev)  
 
 ---
 
 ## 📚 **Currently Learning**  
-[![Learning](https://skillicons.dev/icons?i=node,json)](https://skillicons.dev)  
+[![Learning](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)  
 
 ---
 
