@@ -10,8 +10,9 @@
 - 🚀 Currently learning **Swift for iOS Development**  
 - 🎮 Created projects like:  
   - 🎮 **[Dodge Snowball](https://github.com/Gigisk/Dodge-Snowball)** – A **2D game** built with SFML  
-  - 🏨 **[Hotel Management](https://github.com/Gigisk/Hotel-Management)** – A **C++ terminal-based hotel management system**  
-  - 📱 **iOS App in Progress** – Currently working on a **Swift-based iOS app**  
+  - 🏨 **[Hotel Management](https://github.com/Gigisk/Hotel-Management)** – A **C++ terminal-based hotel management system**
+  - 🛒 **[Simple Store](https://github.com/Gigisk/simple-mern-store)** – A **First Full-Stack web with MERN**  
+  - 📱 **Learning MERN and React Native** – Currently learning **MERN** for Full-Stack development and **React Native** for **mobile apps**
 
 ---
 
